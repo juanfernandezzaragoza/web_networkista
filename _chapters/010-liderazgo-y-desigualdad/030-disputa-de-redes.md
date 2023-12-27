@@ -174,11 +174,11 @@ Tras las ecólisis, se disparan los procesos de concentración de poder y mejora
 
 **Las ecólisis sólo suceden cuando la asimetría tecnológica es grande, y disparan la capacidad productiva y la concentración de poder. Por eso parece que la historia cambia de capítulo.**
 
-_Las revoluciones que triunfaron fueron redes que crecieron y efectuaron ecólisis, no por sublevaciones. En esta sección, hemos mencionado el caso de la revolución burguesa. _
+_Las revoluciones que triunfaron fueron redes que crecieron y efectuaron ecólisis, no por sublevaciones. En esta sección, hemos mencionado el caso de la revolución burguesa._
 
 _Lo mismo sucedió con los procesos independentistas de los ‘50 y ‘60, ecólisis fomentadas por los Estados Unidos y la Unión Soviética para ampliar sus esferas de influencia sobre colonias europeas._
 
-_Para hacer la revolución, debemos diseñar e implementar una red nueva, que resuelva el problema de la coordinación y alineación de incentivos de un modo que limite la concentración de poder. La revolución es lograr que esa red escale hasta ser mayoritaria. La propuesta no es nueva, así funcionan las revoluciones triunfantes. _
+_Para hacer la revolución, debemos diseñar e implementar una red nueva, que resuelva el problema de la coordinación y alineación de incentivos de un modo que limite la concentración de poder. La revolución es lograr que esa red escale hasta ser mayoritaria. La propuesta no es nueva, así funcionan las revoluciones triunfantes._
 
 
 ## **La Forma General De La Historia Económica**
