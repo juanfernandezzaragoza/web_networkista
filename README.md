@@ -21,5 +21,5 @@ Su principal conclusión es que podemos terminar con las crisis emocional, ambie
 2. **Castle:** Una implementación de los registros distribuidos que resuelva el dilema de la blockchain, a saber, que los esfuerzos para mejorar su eficiencia devienen en dinámicas plutócratas.
 3. **Saphi:** Una red productiva que limite la desigualdad radical producto de la dinámica de liderazgo.
 
-
+Estamos publicando en esta página exposiciones accesibles de este nuevo marco teórico. Por ahora, quedan expuestas la economía networkista y algunos artículos independientes.
 
