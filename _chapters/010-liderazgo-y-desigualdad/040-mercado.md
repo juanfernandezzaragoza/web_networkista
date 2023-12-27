@@ -28,7 +28,7 @@ Si el mercado funcionara perfectamente, no concentraría el poder. En este capí
 Cuando estudiemos el liderazgo en la empresa, presentaremos una visión más rica que la expuesta hasta ahora. Es posible entender la disputa de redes sin ella, pero enriquecer el modelo permitirá construir modelos más finos desde el paradigma de liderazgo.
 
 
-# La Competencia Perfecta
+## La Competencia Perfecta
 
 En el modelo de competencia perfecta, los individuos son perfectamente racionales y procesan la información perfectamente.
 
@@ -53,7 +53,7 @@ El abogado, la analista de datos, el diseñador y la ingeniera venden su trabajo
 **En la competencia perfecta, organizarse en empresas no aporta un valor diferencial.**
 
 
-# La Inatención
+## La Inatención
 
 Los individuos no somos perfectamente racionales, ni procesamos la información perfectamente, ni conocemos el sistema de precios perfectamente.
 
@@ -84,7 +84,7 @@ La colaboración en empresas mejora la productividad per cápita, pero no está 
 **Las empresas son estructuras lideradas en contextos de mercado. Surgen porque no procesamos perfectamente la información, lo que nos lleva a colaborar con otras personas para interactuar con el mercado.**
 
 
-# El Valor Producido Por La Empresa
+## El Valor Producido Por La Empresa
 
 Como las empresas producen en un contexto de mercado, venden sus productos por dinero. Este dinero permite comprar cosas, y adquiere valor real en el contexto de mercado.
 
@@ -109,7 +109,7 @@ El reparto de dinero entre líderes y empleados sigue las reglas que vimos en el
 **El valor producido por una empresa es el valor producido exclusivamente por la organización, es decir, por el grupo de personas colaborando y dividiendo tareas. Este es el poder de compra del dinero generado en ventas, menos la amortización de las máquinas, el pago de alquileres, el pago de préstamos y dividendos, y de cualquier otro costo que no sea el trabajo organizado de personas. Esta suma equivale al dinero que tiene el líder para repartir entre sus empleados.**
 
 
-# La Tecnología De La Empresa
+## La Tecnología De La Empresa
 
 En el primer capítulo, definimos a la tecnología como el factor que determina una curva de productividad per cápita.
 
@@ -135,7 +135,7 @@ Sin embargo, a medida que mejoran la capacidad de coordinar la producción y las
 **La tecnología de la empresa incluye la decisión del producto a vender. Esto implica que distintas empresas pueden tener distintas curvas de productividad per cápita. Sin embargo, las mejoras en la maquinaria y la capacidad de coordinación generan una tendencia general a que las organizaciones crezcan y a la consecuente disputa de redes.**
 
 
-# El Liderazgo en la Empresa
+## El Liderazgo en la Empresa
 
 El líder de una organización es la persona que tiene la capacidad de repartir los beneficios y expulsar al resto.
 
@@ -198,7 +198,7 @@ _Cuando calculamos el valor generado por una organización, no contamos el retor
 _La junta directiva que representa a los inversores de una empresa puede obtener la ganancia propia de la empresa financiera y la ganancia por liderar la empresa en cuestión._
 
 
-# El Sistema Financiero
+## El Sistema Financiero
 
 Las empresas financieras son un tipo particular de empresa. 
 
@@ -286,7 +286,7 @@ _El sistema financiero acelera la disputa de redes y es pasible de disputa de re
 _Existen otras maneras de superar el valle de productividad para activar nuevas tecnologías. Por ejemplo, los países autoritarios se industrializaron rápidamente porque cubrieron ese valle con coerción. En el capítulo seis, estudiaremos fuentes alternativas al sistema financiero para conseguir la energía de activación necesaria para fundar redes nuevas._
 
 
-# El Fin del Dinero
+## El Fin del Dinero
 
 Cuando analizamos el valor que genera una empresa, lo definimos tentativamente como el poder de compra del dinero que genera la organización.
 
@@ -325,7 +325,7 @@ Tras la desconexión, la empresa desconectada adquirirá el monopolio absoluto r
 **Dado un nivel de desarrollo de la disputa de redes, el dinero desaparecerá como medio común de intercambio.**
 
 
-# El Fin del Sistema Financiero
+## El Fin del Sistema Financiero
 
 Con el avance de la disputa de redes, el sistema financiero dejará de funcionar como ahora. 
 
@@ -350,7 +350,7 @@ En el segundo, lo que era el sistema financiero se transformará en un liderazgo
 **Con el avance de la disputa de redes, el sistema financiero perderá su carácter monetario y dará lugar a liderazgos productivos.**
 
 
-# Resumen del Capítulo
+## Resumen del Capítulo
 
 El mercado es un protocolo que coordina la producción y alinea los incentivos de las partes involucradas sin necesidad de liderazgo. Si las personas fuéramos perfectamente racionales, las partes involucradas seríamos los individuos y no crecería la desigualdad.
 
