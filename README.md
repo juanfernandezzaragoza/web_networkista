@@ -17,10 +17,10 @@ Combina nuestros conocimientos de cómo funcionan las redes humanas. Gracias a e
 Sirve para entender cómo transformar la realidad esquivando las crisis en que cayeron los paradigmas anteriores.
 
 1. **Economía:** El motor fundamental de la desigualdad económica es el liderazgo, mecanismo que surge para alinear los incentivos de las organizaciones. La disputa entre líderes por seguidores permite explicar la historia de los sistemas económicos mejor que antes.
-2. **Psicología:** La las redes comunitarias son el factor más importante para entender el comportamiento humano, porque nos apoyamos en nuestras redes para procesar la información y tomar decisiones.
-3. **Cultura:** Las transformaciones culturales y de sistemas de valores pueden explicarse mejor a través de los incentivos de los individuos. Los sistemas de valores, las emociones y el liderazgo son las variables más importantes para entender los incentivos individuales de la sociedad, y su funcionamiento está descrito por el networkismo.
-4. **Ética:** Las éticas moderna y posmoderna se basan en el procesamiento discursivo de la información, lo que no permite promover sistemas éticos a gran escala. El enfoque networkista estudia cómo nos apoyamos en nuestras redes para tomar decisiones y ofrece un marco ético adaptado a la realidad.
-5. **Modelado:** Definir los puntos de vista como una relación formal permite superar dilemas teóricos, prácticos y epistemológicos de las técnicas de modelado. Las redes operativas tienen invariantes homeostáticos que pueden modelarse satisfactoriamente.
+2. **Psicología:** Las redes comunitarias son el factor más importante para entender el comportamiento humano, porque nos apoyamos en nuestras redes para procesar la información y tomar decisiones.
+3. **Cultura:** Las transformaciones culturales y de sistemas de valores pueden explicarse mejor a través de los incentivos de los individuos. Podemos entender la cultura describiendo el funcionamiento de los sistemas de valores, las emociones y el liderazgo.
+4. **Ética:** Las éticas moderna y posmoderna se basan en el procesamiento discursivo de la información, que no regula el grueso del comportamiento humano. El enfoque networkista estudia cómo nos apoyamos en nuestras redes para tomar decisiones y ofrece un enfoque ético adaptado a cómo somos las personas.
+5. **Modelado:** Definir los puntos de vista como una relación formal permite superar dilemas teóricos, prácticos y epistemológicos del modelado. Las redes operativas tienen invariantes homeostáticos que pueden modelarse satisfactoriamente.
 
 La conclusión práctica principal del networkismo es que podemos terminar con las crisis emocional, ambiental, salarial y cultural si fundamos y escalamos tres redes complementarias:
 1. Una red social que regule las externalidades y limite la hiperconectividad, causante de los problemas de las redes actuales.
