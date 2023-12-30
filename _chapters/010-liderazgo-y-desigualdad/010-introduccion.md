@@ -17,8 +17,7 @@ En los próximos capítulos, mostraremos que el liderazgo y la competencia entre
 
 En particular, permite dar una respuesta actualizada a las preguntas en que trabajó Marx en el siglo XIX.
 
-
-# El Proyecto Marxista
+# Lo que quiso hacer Marx
 
 Este libro toma las preguntas fundamentales del marxismo y las responde a partir de la ciencia actual.
 
