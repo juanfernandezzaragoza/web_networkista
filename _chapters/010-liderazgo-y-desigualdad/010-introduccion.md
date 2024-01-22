@@ -8,39 +8,20 @@ abstract: En los próximos capítulos, mostraremos que el liderazgo y la compete
 
 
 # Introducción
-
 El liderazgo es la forma fundamental de poder económico.
-
-Permite explicar la historia económica de manera simple, y presenta una estrategia plausible para mitigar la desigualdad. 
-
-En los próximos capítulos, mostraremos que el liderazgo y la competencia entre líderes por seguidores comprenden, desde un único modelo, muchos fenómenos que antes analizábamos por separado.
-
-En particular, permite dar una respuesta actualizada a las preguntas en que trabajó Marx en el siglo XIX.
-
-# Lo que quiso hacer Marx
-
-Este libro toma las preguntas fundamentales del marxismo y las responde a partir de la ciencia actual.
-
+En los próximos capítulos, mostraremos que la competencia entre líderes por seguidores permite explicar la historia económica desde un único modelo simple.
+Además, presentaremos estrategias plausibles para mitigar la desigualdad.
+En otras palabras, la teoría del liderazgo da una respuesta actualizada a las preguntas en que trabajó Marx durante el siglo XIX.
 Marx quiso entender cómo funciona la historia de los sistemas económicos, y en particular, qué mecanismos generan y acrecientan la desigualdad. Su proyecto era formular un diagnóstico científico que permitiera diseñar salidas a la desigualdad extrema.
-
-Desde que escribió Marx, hubo desarrollos científicos que nos permiten formular un modelo más prometedor de la historia económica. El desarrollo más importante para este propósito es la teoría de juegos, que permite estudiar cómo actúan los grupos en función de los incentivos individuales de sus miembros. Además, la economía conductual y las ciencias cognitivas nos permiten entender mejor cómo las personas procesamos la información para tomar decisiones.
-
-Este libro argumenta que los principales errores predictivos de la teoría marxista surgen de no considerar los incentivos individuales. Fundamentalmente, el concepto marxista de “conciencia de clase” supone que cada trabajador individual hará lo que es conveniente para el grupo de trabajadores, incluso cuando no le conviene personalmente. 
-
-Por ejemplo, la conciencia de clase implica que todos los trabajadores lucharán por la revolución por el bien de todos los trabajadores en lugar de priorizar su propia carrera. Además, implica que una vez acontecida la revolución socialista todos los ciudadanos trabajarán por el bien común. En la práctica, el grueso de los trabajadores no lucha por la revolución, y todos los experimentos socialistas devinieron en jerarquías y cúpulas que trabajaron para preservar su poder y restringieron las libertades individuales.
-
-En nuestro análisis, observaremos que el factor más explicativo de la desigualdad económica es el liderazgo, un mecanismo para alinear los incentivos individuales. Además, presentaremos un modelo más explicativo de la historia económica que la lucha de clases, al que denominaremos “disputa de redes”.
-
-Para ello, partiremos de cuatro supuestos simples: que cada individuo tiende a hacer lo que le conviene, que colaborando podemos ser más productivos que trabajando solos, que la productividad de un grupo depende de la tecnología disponible, que la tecnología tiende a mejorar con el tiempo.
-
-La disputa de redes es un marco teórico más plausible que la lucha de clases porque no asume que los individuos renunciarán a sus beneficios individuales en favor del interés colectivo. Además, se adecua mejor a los acontecimientos históricos y explica varios fenómenos que solíamos analizar por separado desde un mismo modelo simple. 
-
-Por ejemplo, la disputa de redes es suficiente para explicar por qué el grueso de los trabajadores no lucha por la revolución, por qué surgieron cúpulas de poder en los experimentos marxistas, por qué las burocracias sindicales capturan parte del valor obtenido por los sindicato, por qué el poder económico tiende a concentrarse con el tiempo, cuál es el mecanismo que genera la desigualdad económica en todas sus formas, incluyendo la plusvalía fabril, el señorío feudal, las burocracias sindicales y estatales y las tiranías, cómo, cuándo y por qué suceden las revoluciones en los sistemas económicos, o cómo, cuándo y por qué emergen el autoritarismo, la esclavitud, la libertad, el proteccionismo y el libre comercio.
-
+Desde que escribió Marx, hubo descubrimientos científicos que comprenden mejor la conducta humana. Por ejemplo, la teoría de juegos estudia cómo actúan los grupos en función de los incentivos individuales de sus miembros. Por otra parte, la economía conductual y las ciencias cognitivas describen cómo las personas procesamos la información para tomar decisiones en la práctica.
+Estos descubrimientos permiten formular un modelo general de la historia económica más predictivo que la lucha de clases, al que denominaremos “disputa de redes”. La disputa de redes comprende y explica los errores predictivos y de puesta en práctica de la teoría marxista.
+Por ejemplo, la disputa de redes es suficiente para explicar por qué el grueso de los trabajadores no lucha por la revolución, por qué surgieron cúpulas de poder en los experimentos marxistas, por qué las burocracias sindicales capturan parte del valor obtenido por los sindicatos, por qué el poder económico tiende a concentrarse con el tiempo, cómo, cuándo y por qué suceden las revoluciones en los sistemas económicos, o cómo, cuándo y por qué emergen el autoritarismo, la esclavitud, la libertad, el proteccionismo y el libre comercio.
+La lucha de clases, en cambio, no es suficiente para explicar tales acontecimientos históricos. Por eso, el paradigma marxista tuvo que formular teorías especiales para comprender cada uno de ellos, como la teoría de la alienación, la teoría del imperialismo, la teoría de la revolución permanente, la teoría de la relación verdad-poder, la teoría de la batalla cultural, y las diversas teorías de acumulación y centralización del capital.
+En nuestro análisis, observaremos que el factor más explicativo de la desigualdad económica es el liderazgo, un mecanismo que surge para alinear los incentivos individuales. Este mecanismo explica la desigualdad económica en todas sus formas, incluyendo la plusvalía fabril, el señorío feudal, las burocracias sindicales o estatales y las tiranías.
+La disputa de redes es la dinámica que rige la competencia entre líderes por seguidores y explica mejor la historia económica. Es más plausible que la lucha de clases porque no asume que los individuos renunciarán a sus beneficios individuales en favor del interés colectivo.
+Para formular nuestro modelo, partiremos de cuatro supuestos simples: que cada individuo tiende a hacer lo que le conviene individualmente, que colaborando podemos ser más productivos que trabajando solos, que la productividad de un grupo depende de la tecnología disponible, y que la tecnología tiende a mejorar con el tiempo.
 Este libro es una maqueta para un nuevo paradigma económico. Es una propuesta para construir en conjunto los cimientos de una nueva economía, y luego todo el edificio. Por ello, los argumentos priorizan la sencillez y la comprensibilidad antes que el blindaje ante las críticas.
-
-Esto sugiere un pacto de lectura. Para convencerse de que el liderazgo es un paradigma prometedor basta compararlo con los paradigmas anteriores de pensamiento económico. Se espera que la lectura valore la capacidad de explicar la historia de los sistemas económicos desde un único modelo y desde pocos supuestos simples.
-
+Esto sugiere un pacto de lectura. Para convencerse de que el liderazgo es un paradigma prometedor basta compararlo con los paradigmas anteriores de pensamiento económico. Se espera que la lectura valore la capacidad de explicar la historia de los sistemas económicos desde un único modelo y pocos presupuestos.
 
 # Plan del libro
 
